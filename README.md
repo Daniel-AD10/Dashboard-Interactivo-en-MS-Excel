@@ -52,4 +52,3 @@ Uso de filtros que mejoran la interactividad y el análisis.
 
 ## Dashboard
 ![Imagen.JPG]()
-
