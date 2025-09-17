@@ -51,4 +51,4 @@ Construcción de visualizaciones claras.
 Uso de filtros que mejoran la interactividad y el análisis.
 
 ## Dashboard
-![Imagen.JPG]
+![Imagen.JPG](https://github.com/Daniel-AD10/Dashboard-Interactivo-en-MS-Excel/blob/main/Imagen.JPG)
